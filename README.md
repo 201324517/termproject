@@ -8,4 +8,4 @@
 - MIT license
 
 * GitHub Pages Link 
-- https://201324517.github.io/termproject/.
+- https://201324517.github.io/termproject/index.html
