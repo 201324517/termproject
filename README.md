@@ -7,5 +7,5 @@
 * license
 - MIT license
 
-* GitHub Pages Link
-- 
+* GitHub Pages Link 
+- https://201324517.github.io/termproject/.
